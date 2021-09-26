@@ -1,4 +1,4 @@
-# hed-many-eeg
+# hed-eeg-many-labs
 
 The HED EEG Many Labs project is analyzing each of the datasets in EEG Many Labs project, which seeks to replicate key EEG studies. 
 The HED project will produce the following information:
